@@ -7,6 +7,7 @@
   - used regular expression for validation
 
 # Admin
+![](Snag_119d5f79.png)
 
 # Buyer
 
