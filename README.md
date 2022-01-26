@@ -12,6 +12,9 @@
 
 # Buyer
 ![Snag_11a47fff](https://user-images.githubusercontent.com/78217017/151084899-e32b4443-902b-404c-a607-07404b7ee4af.png)
+  - ability to review contracts and clients
+  - ability to accept/reject new orders
+  - ability to select relevant cities for carrier
 
 # Planner
 ![Snag_11a575d9](https://user-images.githubusercontent.com/78217017/151084989-5d8775e8-3d7a-49a8-ba17-c1f22d70680f.png)
