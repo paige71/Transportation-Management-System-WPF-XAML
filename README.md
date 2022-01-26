@@ -17,6 +17,7 @@
   - ability to accept/reject clients
   - ability to select relevant cities for carrier to freight calculation 
   - ability to view order status 
+  - ability to generate invoice
 
 # Planner
 ![Snag_11a575d9](https://user-images.githubusercontent.com/78217017/151084989-5d8775e8-3d7a-49a8-ba17-c1f22d70680f.png)
