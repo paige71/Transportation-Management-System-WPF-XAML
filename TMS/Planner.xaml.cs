@@ -1,6 +1,6 @@
 ﻿//  FILE            :   Planner.xaml.cs
 //  PROJECT         :   Software Quality Term Project
-//  PROGRAMMER      :   Yinruo Jiang
+//  PROGRAMMER      :   Yinruo J
 //  FIRST-VERSION   :   December 6, 2021
 //  DESCRIPTION     :   This contains the C# code for the Planner WPF window.
 
