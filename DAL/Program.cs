@@ -1,6 +1,6 @@
-﻿//  FILE            :   Program.cs (DAL)
+﻿//  FILE           :   Program.cs (DAL)
 //  PROJECT         :   Software Quality - Term Project
-//  PROGRAMMERS     :   Erica Luksts & Yinruo Jiang
+//  PROGRAMMERS     :   Erica L & Yinruo J
 //  FIRST-VERSION   :   November 23, 2021
 //  DESCRIPTION     :   This file contains the main classes for the data access layer portion of the TMS term project. The classes in this file
 //                      are used to perform communications between the UI, the database, and the communication layer.
