@@ -23,5 +23,6 @@
 ![Snag_11a575d9](https://user-images.githubusercontent.com/78217017/151084989-5d8775e8-3d7a-49a8-ba17-c1f22d70680f.png)
   - ability to view active order(s)
   - ability to add trip(s)
+  - ability to update order(s)
   - ability to load invoce(s)
 
