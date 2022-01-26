@@ -1,6 +1,6 @@
 ﻿//  FILE            :   Buyer.xaml.cs
 //  PROJECT         :   Software Quality Term Project
-//  PROGRAMMER      :   Erica Luksts
+//  PROGRAMMER      :   Erica L
 //  FIRST-VERSION   :   November 30, 2021
 //  DESCRIPTION     :   This contains the C# code for the Buyer WPF window.
 
