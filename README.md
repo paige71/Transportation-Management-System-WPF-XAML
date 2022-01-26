@@ -7,6 +7,7 @@
 # Admin
 ![](Snag_119d5f79.png)
   - ability to operate CRUD for carrier and route tables in the database 
+  - ability to view and load logfile
 
 # Buyer
 ![Snag_11a47fff](https://user-images.githubusercontent.com/78217017/151084899-e32b4443-902b-404c-a607-07404b7ee4af.png)
