@@ -1,6 +1,6 @@
 ﻿<!--    FILE            :   Buyer.xaml
         PROJECT         :   Software Quality Term Project
-        PROGRAMMER      :   Erica Luksts
+        PROGRAMMER      :   Erica L
         FIRST-VERSION   :   November 30, 2021
         DESCRIPTION     :   This file contains all of the xaml WPF code for the Buyer screen within TMS.-->
 <Window x:Class="TMS.Buyer"
