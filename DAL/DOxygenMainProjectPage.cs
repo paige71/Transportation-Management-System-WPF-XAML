@@ -9,7 +9,7 @@
 /// <hr>
 /// \section version Current version: 1.0
 /// <ul>
-/// <li>\authors   SQ Titans (Paige Lam, Yinruo Jiang, Erica Luksts, & Yutong Ji)</li>
+/// <li>\authors   SQ Titans (Paige Lam, Yinruo J, Erica L)</li>
 /// <li>\version   1.0</li>
 /// <li>\date      Dec 2021</li>
 /// <li>\copyright SQ Titans</li>
