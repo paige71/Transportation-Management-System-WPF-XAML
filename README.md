@@ -1,6 +1,4 @@
 # Transportation-Management-System-C-WPF-XAML
-# Demo Video
-
 
 # Log In 
   - connects to MySql database for log in credentials
