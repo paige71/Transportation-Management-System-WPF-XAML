@@ -1,7 +1,7 @@
 # Transportation-Management-System-C-WPF-XAML
 
 # Log In 
-  - connects to MySql database for log in credentials
+  - connects to MySql database for log in credentials and tables
   - used regular expression for validation
 
 # Admin
