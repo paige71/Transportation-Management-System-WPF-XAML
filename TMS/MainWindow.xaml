@@ -1,0 +1,24 @@
+﻿<!--    FILE            :   MainWindow.xaml
+        PROJECT         :   Software Quality Term Project
+        PROGRAMMER      :   Paige Lam
+        FIRST-VERSION   :   November 30, 2021
+        DESCRIPTION     :   This file contains all of the xaml WPF code for the log in screen within TMS.-->
+    <Window x:Class="TMS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TMS"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="LightSteelBlue">
+    <Grid>
+        <Image HorizontalAlignment="Left" Width="280" Source="icon1.jpg" Margin="250,20,0,258"/>
+        <Label Content="TMS" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="390,0,0,317" FontWeight="Bold" FontSize="36" Height="52" Width="87"/>
+        <Label Content="Transportation Management System" FontSize="36" FontWeight="Bold" Width="626" Margin="88,166,78,183"/>
+        <Label Content="Username:" HorizontalAlignment="Left" Margin="244,242,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold" Height="46"/>
+        <TextBox Name="txtUserName" HorizontalAlignment="Left" Height="33" Margin="370,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" RenderTransformOrigin="0.333,0.087" FontSize="22" BorderThickness="2"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="250,288,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.737,0.538" FontSize="22" FontWeight="Bold" Height="46"/>
+        <PasswordBox Name="txtPassWord" HorizontalAlignment="Left" Margin="370,288,0,0" VerticalAlignment="Top" Width="176" Height="30"/>
+        <Button Name="btnSubmit" Click="btnSubmit_Click" Content="Log In" HorizontalAlignment="Left" Margin="370,339,0,0" VerticalAlignment="Top" Width="79" RenderTransformOrigin="0.28,-0.3" FontSize="22" BorderThickness="2" Height="41" FontWeight="Bold"/>
+    </Grid>
+</Window>
